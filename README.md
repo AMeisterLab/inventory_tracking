@@ -1,6 +1,4 @@
-# inventory_tracking
-
-**Title: How a Simple Spreadsheet Became a Meal Coordination Lifesaver**
+# **Title: How a Simple Spreadsheet Became a Meal Coordination Lifesaver**
 
 I’ll never forget the day I walked into the kitchen of the meal delivery service where I work. Pots were clanging, and chefs were moving swiftly, but amidst all the hustle and bustle, I noticed something troubling: no one seemed to know exactly what meals were available or how many. It then hit me that we needed a better way to manage our inventory. This project was born out of that realization, and it turned out to be an exciting journey filled with learning and surprises.
 
