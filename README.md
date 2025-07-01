@@ -1,4 +1,4 @@
-# **Title: How a Simple Spreadsheet Became a Meal Coordination Lifesaver**
+# **How a Simple Spreadsheet Became a Meal Coordination Lifesaver**
 
 I’ll never forget the day I walked into the kitchen of the meal delivery service where I work. Pots were clanging, and chefs were moving swiftly, but amidst all the hustle and bustle, I noticed something troubling: no one seemed to know exactly what meals were available or how many. It then hit me that we needed a better way to manage our inventory. This project was born out of that realization, and it turned out to be an exciting journey filled with learning and surprises.
 
@@ -23,7 +23,9 @@ My first step was to clean the dataset to ensure accuracy. I then transformed th
 **Visuals and Insights**
 
 As we began to send out weekly emails summarizing our inventory, I noticed fascinating trends. For example, the visual I'd like to include shows the number of meals allocated by type—chicken, beef, pork, seafood, other. This data helped us pinpoint which meals were popular among clients. Understanding these preferences can guide our future meal planning.
+
 [Insert Visual Here]
+
 This graphic illustrates the number of meals allocated by type over the last month. Notice how chicken consistently outperforms other options, indicating a strong client preference.
 
 **Main Takeaways**
