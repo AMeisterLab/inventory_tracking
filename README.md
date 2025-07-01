@@ -9,7 +9,9 @@ I chose this project because it addressed a significant problem we faced daily. 
 **Key Takeaways**
 
 •	Developed a tool to streamline meal allocation and inventory tracking.
+
 •	Created user-friendly macros to assist those less familiar with Excel.
+
 •	Tracked meal preferences and inventory trends over time.
 
 **Details**
