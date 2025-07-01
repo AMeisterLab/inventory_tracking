@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module5"
+Attribute VB_Name = "MealSelectorMacros"
 Sub UpdateInventory_and_SendEmail_Generic()
 
 Dim og As Worksheet
