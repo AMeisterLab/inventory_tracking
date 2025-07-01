@@ -26,7 +26,8 @@ My first step was to clean the dataset to ensure accuracy. I then transformed th
 
 As we began to send out weekly emails summarizing our inventory, I noticed fascinating trends. For example, the visual I'd like to include shows the number of meals allocated by type—chicken, beef, pork, seafood, other. This data helped us pinpoint which meals were popular among clients. Understanding these preferences can guide our future meal planning.
 
-[Insert Visual Here]
+![DBX trends](https://github.com/user-attachments/assets/f9cbe7b3-05cd-48fa-96bb-5169933a140b)
+
 
 This graphic illustrates the number of meals allocated by type over the last month. Notice how chicken consistently outperforms other options, indicating a strong client preference.
 
