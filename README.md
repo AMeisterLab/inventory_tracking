@@ -8,7 +8,7 @@ I chose this project because it addressed a significant problem we faced daily. 
 
 **Key Takeaways**
 
-Inventory Tool
+  **Inventory Tool**
 
 •	Developed a tool to streamline meal allocation and inventory tracking.
 
@@ -16,9 +16,9 @@ Inventory Tool
 
 •	Tracked meal preferences and inventory trends over time.
 
-Inventory Analysis
+  **Inventory Analysis**
 
-•	On average, there are 173 meals pulled per week. With each client receiving 7 meals/week this equates to serving ~25 clients/week. 
+•	On average, there were 173 meals pulled per week. With each client receiving 7 meals/week this equates to serving ~25 clients/week. 
 
 •	During the month of May there were, on average, 21 different meal options to choose from compared to June which only offered 12 different meals to choose from. While the variety has decresed from May to June, this still allows clients to receive 7 unique meals each week with some room to accomodate preferences and makes managing the selections easier.  
 
