@@ -16,11 +16,6 @@ I chose this project because it addressed a significant problem we faced daily. 
 
 •	Tracked meal preferences and inventory trends over time.
 
-Users can use the tool to allocate meals to each client according to preference and availabilty. Once meals are allocated, the summarized quantities can be used when pulling meals from the freezers to pack. Finally, when the user is done packing, they can send an email with the updated inventory to the kitchen staff and reset the meal selector for the next week.
-
-![image](https://github.com/user-attachments/assets/f22bd085-e4f7-46a1-933a-09ad4939e63d)
-
-
   **Inventory Analysis**
 
 •	On average, there were 173 meals pulled per week. With each client receiving 7 meals/week this equates to serving ~25 clients/week. 
@@ -38,6 +33,11 @@ The content I worked with included client names, the number of meals they needed
 My first step was building macros that allowed the primary user—who wasn’t very familiar with Excel—to easily navigate the tool and begin tracking inventory. One of the most rewarding aspects was creating a function that automatically updated the inventory after meals were allocated and generated an email to stakeholders, which brought clarity to our operations. I was pleasantly surprised by how well this function worked and how quickly we could track inventory changes.
 
 **Visuals and Insights**
+
+Users can use the meal selector tool to allocate meals to each client according to preference and availabilty. Once meals are allocated, the summarized quantities can be used when pulling meals from the freezers to pack. Finally, when the user is done packing, they can send an email with the updated inventory to the kitchen staff and reset the meal selector for the next week.
+
+![image](https://github.com/user-attachments/assets/f22bd085-e4f7-46a1-933a-09ad4939e63d)
+
 
 As we began to send out weekly emails summarizing our inventory, I noticed fascinating trends. For example, this visual shows the number of different meals allocated by type—chicken, beef, pork, seafood, other. This data helped us understand what kind of meals are currently in inventory and how we might add variety in future meal planning.
 
