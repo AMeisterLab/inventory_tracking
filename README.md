@@ -34,7 +34,7 @@ My first step was building macros that allowed the primary user—who wasn’t v
 
 **Visuals and Insights**
 
-Users can use the meal selector tool to allocate meals to each client according to preference and availabilty. Once meals are allocated, the summarized quantities can be used when pulling meals from the freezers to pack. Finally, when the user is done packing, they can send an email with the updated inventory to the kitchen staff and reset the meal selector for the next week.
+The meal selector tool can be used to allocate meals to each client according to preference and availabilty. Once meals are allocated, the summarized quantities can be used when pulling meals from the freezers to pack. Finally, once the meals are packed, the user can send an email with the updated inventory to the kitchen staff and reset the meal selector for the next week using the buttons in the top right corner.
 
 ![image](https://github.com/user-attachments/assets/f22bd085-e4f7-46a1-933a-09ad4939e63d)
 
