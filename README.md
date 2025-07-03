@@ -16,6 +16,11 @@ I chose this project because it addressed a significant problem we faced daily. 
 
 •	Tracked meal preferences and inventory trends over time.
 
+Users can use the tool to allocate meals to each client according to preference and availabilty. Once meals are allocated, the summarized quantities can be used when pulling meals from the freezers to pack. Finally, when the user is done packing, they can send an email with the updated inventory to the kitchen staff and reset the meal selector for the next week.
+
+![image](https://github.com/user-attachments/assets/f22bd085-e4f7-46a1-933a-09ad4939e63d)
+
+
   **Inventory Analysis**
 
 •	On average, there were 173 meals pulled per week. With each client receiving 7 meals/week this equates to serving ~25 clients/week. 
