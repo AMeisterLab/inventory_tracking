@@ -8,28 +8,42 @@ I chose this project because it addressed a significant problem we faced daily. 
 
 **Key Takeaways**
 
+Inventory Tool
+
 •	Developed a tool to streamline meal allocation and inventory tracking.
 
 •	Created user-friendly macros to assist those less familiar with Excel.
 
 •	Tracked meal preferences and inventory trends over time.
 
+Inventory Analysis
+
+•	On average, there are 173 meals pulled per week. With each client receiving 7 meals/week this equates to serving ~25 clients/week. 
+
+•	During the month of May there were, on average, 21 different meal options to choose from compared to June which only offered 12 different meals to choose from. While the variety has decresed from May to June, this still allows clients to receive 7 unique meals each week with some room to accomodate preferences and makes managing the selections easier.  
+
+•	Across May and June, 17 different dishes were prepared (4 Chicken, 4 Beef, 4 Other, 2 Pork, and 3 Seafood) with a total of 996 individual meals prepared. 
+
 **Details**
 
-The content I worked with included client names, the number of meals they needed, their meal preferences, and a list of meals available. 
+The content I worked with included client names, the number of meals they needed, their meal preferences, and a list of meals and quantity available. 
 
 **Analysis Process**
 
-My first step was to clean the dataset to ensure accuracy. I then transformed the data into a more usable format, building macros that allowed the primary user—who wasn’t very familiar with Excel—to easily navigate the tool. One of the most rewarding aspects was creating a function that automatically updated the inventory after meals were allocated, which brought clarity to our operations. I was pleasantly surprised by how well this function worked and how quickly we could track inventory changes.
+My first step was building macros that allowed the primary user—who wasn’t very familiar with Excel—to easily navigate the tool and begin tracking inventory. One of the most rewarding aspects was creating a function that automatically updated the inventory after meals were allocated and generated an email to stakeholders, which brought clarity to our operations. I was pleasantly surprised by how well this function worked and how quickly we could track inventory changes.
 
 **Visuals and Insights**
 
-As we began to send out weekly emails summarizing our inventory, I noticed fascinating trends. For example, the visual I'd like to include shows the number of meals allocated by type—chicken, beef, pork, seafood, other. This data helped us pinpoint which meals were popular among clients. Understanding these preferences can guide our future meal planning.
+As we began to send out weekly emails summarizing our inventory, I noticed fascinating trends. For example, this visual shows the number of different meals allocated by type—chicken, beef, pork, seafood, other. This data helped us understand what kind of meals are currently in inventory and how we might add variety in future meal planning.
 
-![DBX trends](https://github.com/user-attachments/assets/f9cbe7b3-05cd-48fa-96bb-5169933a140b)
+![image](https://github.com/user-attachments/assets/b5350498-10b4-4314-9db2-98a6e079ce22)
 
 
-This graphic illustrates the number of meals allocated by type over the last month. Notice how chicken consistently outperforms other options, indicating a strong client preference.
+This chart illustrates the number of meals distributed by type over the last two months. Notice how pork consistently underperforms other options, indicating a strong client preference against pork based meals.
+
+
+![image](https://github.com/user-attachments/assets/a3219804-0f01-4b9d-b065-4784b5601610)
+
 
 **Main Takeaways**
 
