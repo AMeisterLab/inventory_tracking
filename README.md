@@ -2,7 +2,7 @@
 
 I’ll never forget the day I walked into the kitchen of the meal delivery service where I work. Pots were clanging, and chefs were moving swiftly, but amidst all the hustle and bustle, I noticed something troubling: no one seemed to know exactly what meals were available or how many. It then hit me that we needed a better way to manage our inventory. This project was born out of that realization, and it turned out to be an exciting journey filled with learning and surprises.
 
-## **Why THIS Project?**
+## **Why This Project?**
 
 I chose this project because it addressed a significant problem we faced daily. The kitchen and the distribution center were like two ships passing in the night, often missing each other’s signals. With clients having diverse meal preferences, it became increasingly challenging to allocate meals efficiently. By streamlining the communication of available meals, I hoped to make both planning and packing smoother. This project was not just about spreadsheets; it was about ensuring our clients received exactly what they wanted and eased tension between the kitchen and distribution employees.
 
